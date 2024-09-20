@@ -13,8 +13,8 @@
 
 :root {
     --bg-color: #483248; 
-    --snd-bg-color: #AA98A9; 
-    --text-color: #00000000;
+    --snd-bg-color: ##FFFFFF; 
+    --text-color: #aa98aa;
 }
 
 body {
